@@ -1,1 +1,1 @@
-creating a directory under repository
+A directory to do git tasks
